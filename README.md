@@ -1,6 +1,6 @@
 # **Bobasoda — The Fastest Prediction Market Game on Celo**
 ---
-
+CA - [Address](https://sepolia.celoscan.io/address/0x75110c86Ba04fA22Fd77143D37D89e1B63eAAbA8#tokentxns)
 ## **Milestones**
 
 | Status | Milestone |
